@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pablo
+# 👋 Hi, I’m Dev Laroi
 
 Developer focused on **websites, games, and interactive stuff**.  
 I like clean structure, good performance, and interfaces that don’t fight the user.
