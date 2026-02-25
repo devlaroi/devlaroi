@@ -48,13 +48,6 @@ I'm chilling doing my own thing
 
 ---
 
-## 📊 GitHub Stuff (Because Everyone Scrolls Here)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pabloarzaoo&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloarzaoo&layout=compact&theme=dark" />
-</p>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pabloarzaoo.pabloarzaoo)
 
 ---
