@@ -52,6 +52,22 @@ I'm chilling doing my own thing
 
 ---
 
+## 📜 Certifications
+
+### 🎓 Alura Courses
+
+- 🧠 [Prompt Engineering](https://cursos.alura.com.br/user/pabloarzaoofc/course/prompt/certificate)
+- 💻 [Computer Science Fundamentals & Computational Thinking](https://cursos.alura.com.br/user/pabloarzaoofc/course/computacao-fundamentos-computacao-pensamento-computacional/certificate)
+- 🟡 [Programming Logic: Dive into JavaScript](https://cursos.alura.com.br/user/pabloarzaoofc/course/logica-programacao-mergulhe-programacao-javascript/certificate)
+- 📚 [Programming Logic: Functions and Lists](https://cursos.alura.com.br/user/pabloarzaoofc/course/logica-programacao-funcoes-listas/certificate)
+- 🔧 [Git and GitHub: Version Control](https://cursos.alura.com.br/user/pabloarzaoofc/course/git-github-controle-de-versao/certificate)
+- 🤝 [Git and GitHub: Sharing and Collaborating on Projects](https://cursos.alura.com.br/user/pabloarzaoofc/course/git-github-compartilhando-colaborando-projetos/certificate)
+- 🚀 [Getting Started in Programming: First Steps](https://cursos.alura.com.br/user/pabloarzaoofc/course/comecando-programacao-carreira-primeiros-passos/certificate)
+- 🐍 [Python Backend Career: Welcome Course](https://cursos.alura.com.br/user/pabloarzaoofc/course/carreira-python-backend-boas-vindas/certificate)
+- 🖥 [Scripting: Task Automation with Bash and Docker](https://cursos.alura.com.br/user/pabloarzaoofc/course/scripting-automatizando-tarefas-bash-docker/certificate)
+
+---
+
 Thanks for visiting.  
 Feel free to look around. Or don’t.  
 The code will still be here.
