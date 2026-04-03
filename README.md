@@ -65,7 +65,7 @@ I'm chilling doing my own thing
 - 🚀 [Getting Started in Programming: First Steps](https://cursos.alura.com.br/user/pabloarzaoofc/course/comecando-programacao-carreira-primeiros-passos/certificate)
 - 🐍 [Python Backend Career: Welcome Course](https://cursos.alura.com.br/user/pabloarzaoofc/course/carreira-python-backend-boas-vindas/certificate)
 - 🖥 [Scripting: Task Automation with Bash and Docker](https://cursos.alura.com.br/user/pabloarzaoofc/course/scripting-automatizando-tarefas-bash-docker/certificate)
-
+- I only used Alura to earn certificates, but I learned everything on my own :P
 ---
 
 Thanks for visiting.  
