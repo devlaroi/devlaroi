@@ -46,10 +46,10 @@ Meteorological analysis platform:
 
 ## Focus
 
-- Build systems to collect, process, and visualize meteorological data  
-- Work with real-time radar, satellite, and atmospheric data  
-- Apply data science to weather analysis  
-- Develop practical tools for meteorological use  
+- Build systems to collect, process, and visualize them 
+- Work with real-time data
+- Apply data science
+- Develop practical tools for use  
 
 ---
 
